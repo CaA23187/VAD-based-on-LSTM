@@ -10,6 +10,8 @@
 http://sail.ipdisk.co.kr/publist/VOL1/Database/VAD_DB/Recorded_data.zip
 
 # 文件说明
+运行文件的时候记得把各个文件里的path设置正确
+
 注释什么的参考参考就行，我拿以前写的代码改的，可能有些地方改了代码忘了改注释。
 
 infer.py: 用于模型推理
